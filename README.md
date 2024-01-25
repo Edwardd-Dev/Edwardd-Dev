@@ -23,7 +23,6 @@
 
 ### Programas que eu uso no meu dia ✅
 <div style="display: inline_block"><br/>
-<img ng-src="https://icomoon.io/iconsabf18a1/4/844.svg" src="https://icomoon.io/iconsabf18a1/4/844.svg">
 <img aling="center" alt=Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img aling="center" alt=VisualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img aling="center" alt=VisualStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
