@@ -24,8 +24,11 @@ Engenheiro de software — movido a café, código e criatividade. ☕💻✨
   <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</div><br/>
+</div>
 
+<br/>
+<br/>
+<hr/>
 <br/>
 
 ### Programas que eu uso no meu dia ✅
