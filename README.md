@@ -1,5 +1,6 @@
 
 ### Olá! Eu sou o Eduardo Reis! 👋
+Engenheiro de software — movido a café, código e criatividade. ☕💻✨
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edwaardd7/?igsh=Nml2eG9udHk2Mjg4#)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=k_ReFLNJj-s&ab_channel=EduardoGomes)
