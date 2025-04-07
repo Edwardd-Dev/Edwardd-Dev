@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Eduardo Reis! 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardo_reiss7?igshid=ZDc4ODBmNjlmNQ==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edwaardd7/?igsh=Nml2eG9udHk2Mjg4#)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=k_ReFLNJj-s&ab_channel=EduardoGomes)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dudss77)
 
