@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# ​✨​​ About Me::
 👋 Olá! Eu sou o Eduardo Reis!  
 **Engenheiro de software** — movido a café, código e criatividade. ☕💻
 💻Atualmente aprofundando meus conhecimentos em desenvolvimento de software.
