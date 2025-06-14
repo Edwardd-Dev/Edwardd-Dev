@@ -1,7 +1,9 @@
 # ​✨​​ About Me::
 👋 Olá! Eu sou o Eduardo Reis!  
 **Engenheiro de software** — movido a café, código e criatividade. ☕💻
+
 💻Atualmente aprofundando meus conhecimentos em desenvolvimento de software.
+
 ✨ Aprendendo e utilizando **JavaScript**, **TypeScript** e **C#** no dia a dia.
 
 ---
@@ -27,8 +29,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Edwardd-Dev&icon=0&color=4)](https://visitcount.itsvg.in)
-
----
 
 ### Redes sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edwaardd7/?igsh=Nml2eG9udHk2Mjg4#)
