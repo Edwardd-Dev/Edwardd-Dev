@@ -21,7 +21,7 @@
 
 # 📊 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Victor-GBarbosa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-![]https://github-readme-stats.vercel.app/api?username=Edwardd-Dev&show_icons=true
+![](https://github-readme-stats.vercel.app/api?username=Edwardd-Dev&show_icons=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Edwardd-Dev&icon=0&color=4)](https://visitcount.itsvg.in)
 ### Social Media
