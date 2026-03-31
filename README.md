@@ -19,9 +19,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# 📊 GitHub Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Victor-GBarbosa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api?username=Edwardd-Dev&show_icons=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Edwardd-Dev&icon=0&color=4)](https://visitcount.itsvg.in)
 ### Social Media
